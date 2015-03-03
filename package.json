@@ -1,0 +1,33 @@
+{
+  "name": "request-extensible",
+  "version": "0.1.0",
+  "description": "Middleware extensions for request",
+  "main": "lib/request-extensible.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha -R spec test/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/suprememoocow/request-extensible.git"
+  },
+  "keywords": [
+    "request",
+    "middleware",
+    "extensions"
+  ],
+  "author": "Andrew Newdigate <andrewn@datatribe.net> (http://about.me/andrewnewdigate)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/suprememoocow/request-extensible/issues"
+  },
+  "homepage": "https://github.com/suprememoocow/request-extensible",
+  "devDependencies": {
+    "mocha": "^2.1.0"
+  },
+  "dependencies": {
+    "request": "^2.53.0"
+  }
+}

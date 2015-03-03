@@ -1,0 +1,7 @@
+{
+  "trailing": false,
+  "unused": true,
+  "node": true,
+  "asi": true,
+  "predef": [ "describe", "it", "before", "after", "beforeEach", "afterEach" ]
+}
