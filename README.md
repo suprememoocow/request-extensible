@@ -146,6 +146,17 @@ Other extensions could include, but are not limited to:
 And more!
 
 
+# Available Extensions
+
+Write your own and publish them as npm modules.
+
+Currently, only a few are available:
+
+| Module               | Description |
+|----------------------|---|
+| [https://github.com/gitterHQ/request-http-cache](https://github.com/gitterHQ/request-http-cache) | In memory or Redis-based HTTP response caching using ETags and HTTP Conditional Requests. Currently this module is **specifically** designed around making calls to the GitHub API and has not yet been tested or extended for general use.  |
+
+
 # Licence
 
 License
