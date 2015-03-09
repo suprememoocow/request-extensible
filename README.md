@@ -154,7 +154,7 @@ Currently, only a few are available:
 
 | Module               | Description |
 |----------------------|---|
-| [https://github.com/gitterHQ/request-http-cache](https://github.com/gitterHQ/request-http-cache) | In memory or Redis-based HTTP response caching using ETags and HTTP Conditional Requests. Currently this module is **specifically** designed around making calls to the GitHub API and has not yet been tested or extended for general use.  |
+| [request-http-cache](https://github.com/gitterHQ/request-http-cache) | In memory or Redis-based HTTP response caching using ETags and HTTP Conditional Requests. Currently this module is **specifically** designed around making calls to the GitHub API and has not yet been tested or extended for general use.  |
 
 
 # Licence
